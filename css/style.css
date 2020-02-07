@@ -1,0 +1,10 @@
+.botoes{
+    width: 100px;
+    height: 100px;
+}
+
+#visor{
+    height: 50px;
+    width: 420px;
+    border: 2px solid black;
+}
